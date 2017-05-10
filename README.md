@@ -33,7 +33,7 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/mohammadrezatitan/parsol.git</span>
+<span>git clone https://github.com/snmnima/parsol.git</span>
 <span>cd parsol</span>
 <span>chmod +x parsol.sh</span>
 <span>./parsol.sh install</span>
@@ -43,7 +43,7 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/mohammadrezatitan/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+<span>cd $HOME && git clone https://github.com/snmnima/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
 </span>
 </pre>
 <hr>
