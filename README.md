@@ -1,7 +1,7 @@
 <p 
     <div align="center">
-    <a href="https://t.me/BotReborn_Ch"><font size="100">CREATEBOT channel #MegaCli</font></a>
-<h2><p dir="rtl">CREATEBOT channel #MegaCli
+    <a href="https://t.me/BotReborn_Ch"><font size="100">کانال ما</font></a>
+<h2><p dir="rtl">CREATEBOT channel #MegaCli <br>
     <a href="https://telegram.me/titanteams">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
