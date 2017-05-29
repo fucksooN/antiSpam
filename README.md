@@ -74,9 +74,9 @@ screen ./auto.sh
 </P>
 
 
-اموزش های بیش تر در کانال
+اموزش های بیش تر در پی وی بنده :)
 
-# [mohammadrezajiji](https://telegram.me/fucksoon)
+# [FUCKSoON](https://telegram.me/fucksoon)
 
 
 
