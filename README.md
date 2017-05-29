@@ -34,7 +34,7 @@
 <pre>
 <span>cd $HOME</span>
 <span>git clone https://github.com/fucksoon/antispam.git</span>
-<span>cd parsol</span>
+<span>cd antispam</span>
 <span>chmod +x parsol.sh</span>
 <span>./parsol.sh install</span>
 <span>./parsol.sh</span>
