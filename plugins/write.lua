@@ -1,4 +1,4 @@
-﻿--edit By @mohammadrezajiji
+﻿--edit By @FUCKSoON
 function string:split(sep)
   local sep, fields = sep or ":", {}
   local pattern = string.format("([^%s]+)", sep)
@@ -207,5 +207,5 @@ return {
 		},
 	run = run
 }
---End edit by @mohammadrezajiii
+--End edit by @FUCKSOON
 --Channel 
