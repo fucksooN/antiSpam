@@ -1,16 +1,16 @@
 <p 
     <div align="center">
-    <a href="https://t.me/BotReborn_Ch"><font size="100">کانال ما</font></a>
+    <a href=""><font size="100">کانال ما</font></a>
     <h2><p dir="rtl"><center>CREATEBOT channel #MegaCli</center>
     <br>
-    <a href="https://telegram.me/titanteams">
+    <a href="https://telegram.me/fucksoon">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/mohammadrezajiji">
+    <a href="https://telegram.me/fucksoon">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/titanteams"><font size="100">parsol.v3</font></a>
+<a href="https://telegram.me/fucksoon"><font size="100">anti-spam.fucksoon.v3</font></a>
 <h3><p dir="rtl">سورسی کاملا فارسی در زمینه تیجی های جدید :)
 <br>
 <h3 align="right"> <strong></strong>
@@ -33,7 +33,7 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/snmnima/parsol.git</span>
+<span>git clone https://github.com/fucksoon/antispam.git</span>
 <span>cd parsol</span>
 <span>chmod +x parsol.sh</span>
 <span>./parsol.sh install</span>
@@ -43,7 +43,7 @@
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/snmnima/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+<span>cd $HOME && git clone https://github.com/fucksoon/antispam.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
 </span>
 </pre>
 <hr>
@@ -76,20 +76,12 @@ screen ./auto.sh
 
 اموزش های بیش تر در کانال
 
-# [mohammadrezajiji](https://telegram.me/mohammadrezajiji)
+# [mohammadrezajiji](https://telegram.me/fucksoon)
 
 
-###  Telegram channel:
 
-# [Titanteam](https://telegram.me/titantims)
 
-# [CREATEBOT channel #MegaCli](https://t.me/BotReborn_Ch)
 
-### thanks to   
-
-# [beyondteam](https://telegram.me/BeyondTeam)
-
-# [luaerror](https://telegram.me/luaerror)
 
 * * *
 》*Please send us your stars☆ at the top of this page*
