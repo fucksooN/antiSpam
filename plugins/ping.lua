@@ -1,6 +1,6 @@
-﻿--start by edit by @mohammadrezajiii
+﻿--start by edit by @FUCKSOON
 local datebase = {
-  "  من انلاینم و تمام پیام های گروه رو برسی میکنم😐❤️ ",
+  "  آره داش آنلاینم 😐❤️ ",
 
   }
 local function run(msg, matches) 
@@ -13,5 +13,5 @@ return {
   run = run
 }
 
---end by edit by @mohammadrezajiii
+--end by edit by @FUCKSOON
 --Channel 
